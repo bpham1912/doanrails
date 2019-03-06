@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+@import "bootstrap";
+@import "font-awesome";
+/*
+@import "buttons";
+@import "calendar";
+@import "forms";
+@import "form";
+@import "stats";
+@import "style";
+@import "styleadmin";
+@import "flexslider"; */
